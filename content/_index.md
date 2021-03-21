@@ -12,7 +12,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Visit our Home
+        label: Visit our Homepage
         url: /contact
         style: button
   - type: section_portfolio
