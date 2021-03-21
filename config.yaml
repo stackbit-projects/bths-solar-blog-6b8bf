@@ -6,7 +6,7 @@ params:
   header:
     type: header
     template: header
-    title: Exto
+    title: BTHS Solar blog
     has_nav: true
     nav_links:
       - type: action
