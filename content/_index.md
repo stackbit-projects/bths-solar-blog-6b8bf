@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: section_hero
     template: section_hero
-    title: 'Hi, this is the BTHS Solar Blog'
+    title: Welcome to the BTHS Solar Blog
     section_id: hero
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
