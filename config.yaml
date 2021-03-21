@@ -38,6 +38,7 @@ params:
         template: action
         label: Contact
         style: link
+        url: 'https://bthssolar.org/contact.html'
   footer:
     type: footer
     template: footer
