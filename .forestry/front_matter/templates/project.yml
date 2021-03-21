@@ -49,10 +49,10 @@ fields:
   config:
     required: true
 pages:
-- portfolio/project-1.md
-- portfolio/project-2.md
-- portfolio/project-3.md
-- portfolio/project-4.md
-- portfolio/project-5.md
-- portfolio/project-6.md
-- portfolio/project-7.md
+- content/portfolio/project-1.md
+- content/portfolio/project-2.md
+- content/portfolio/project-3.md
+- content/portfolio/project-4.md
+- content/portfolio/project-5.md
+- content/portfolio/project-6.md
+- content/portfolio/project-7.md

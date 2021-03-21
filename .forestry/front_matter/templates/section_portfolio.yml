@@ -10,9 +10,8 @@ fields:
 - type: text
   name: section_id
   label: Element ID
-  description: >-
-    A unique identifier that can be used when linking to this section. Must not
-    contain whitespace.
+  description: A unique identifier that can be used when linking to this section.
+    Must not contain whitespace.
 - type: text
   name: subtitle
   label: Subtitle
@@ -41,7 +40,7 @@ fields:
 - type: text
   name: view_all_url
   label: All projects button URL
-  default: '#'
+  default: "#"
 - type: text
   name: type
   label: Object Type

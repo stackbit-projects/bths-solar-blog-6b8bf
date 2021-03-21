@@ -39,4 +39,4 @@ fields:
   config:
     required: true
 pages:
-- portfolio/_index.md
+- content/portfolio/_index.md

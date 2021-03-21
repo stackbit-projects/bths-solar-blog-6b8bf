@@ -53,11 +53,11 @@ fields:
   config:
     required: true
 pages:
-- blog/function-of-design.md
-- blog/games.md
-- blog/green.md
-- blog/interior-designer.md
-- blog/street-photography.md
-- blog/why-fonts-matter.md
-- blog/working-from-home.md
-- blog/workplace.md
+- content/blog/function-of-design.md
+- content/blog/games.md
+- content/blog/green.md
+- content/blog/interior-designer.md
+- content/blog/street-photography.md
+- content/blog/why-fonts-matter.md
+- content/blog/working-from-home.md
+- content/blog/workplace.md
