@@ -61,7 +61,7 @@ params:
       - type: action
         template: action
         label: Instagram
-        url: 'https://www.instagram.com/'
+        url: 'https://instagram.com/bths.solar'
         style: icon
         icon: instagram
         new_window: true
