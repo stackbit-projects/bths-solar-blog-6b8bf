@@ -53,7 +53,7 @@ params:
     social_links:
       - type: action
         template: action
-        url: 'https://twitter.com/'
+        url: 'mailto:bthssolarcar@gmail.com'
         style: icon
         icon: twitter
         new_window: true
