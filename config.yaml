@@ -75,7 +75,7 @@ params:
       - type: action
         template: action
         label: GitHub
-        url: 'https://www.linkedin.com/'
+        url: 'https://github.com/bthssolar/'
         style: icon
         icon: linkedin
         new_window: true
