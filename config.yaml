@@ -57,6 +57,7 @@ params:
         style: icon
         icon: twitter
         new_window: true
+        label: Email
       - type: action
         template: action
         label: Instagram
