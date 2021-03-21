@@ -67,13 +67,6 @@ params:
         new_window: true
       - type: action
         template: action
-        label: Dribbble
-        url: 'https://dribbble.com/'
-        style: icon
-        icon: dribbble
-        new_window: true
-      - type: action
-        template: action
         label: GitHub
         url: 'https://github.com/bthssolar/'
         style: icon
