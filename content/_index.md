@@ -14,6 +14,7 @@ sections:
         template: action
         label: Visit our Homepage
         style: button
+        url: 'https://bthssolar.org/'
   - type: section_portfolio
     template: section_portfolio
     title: Recent Work
