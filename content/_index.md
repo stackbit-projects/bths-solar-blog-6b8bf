@@ -60,7 +60,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: BTHS Solar | Blog
     - name: 'twitter:description'
       value: >-
         The Brooklyn Technical High School Solar Car Team Blog. Team updates,
