@@ -66,6 +66,6 @@ seo:
       relativeUrl: true
   description: >-
     The Brooklyn Technical High School Solar Car Team Blog. Team updates,
-    highlights, 
+    highlights, and more.
 layout: advanced
 ---
