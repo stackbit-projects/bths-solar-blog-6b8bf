@@ -62,7 +62,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Exto Theme
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: >-
+        The Brooklyn Technical High School Solar Car Team Blog. Team updates,
+        highlights, and more.
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
