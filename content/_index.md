@@ -46,7 +46,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Exto Theme
+      value: BTHS Solar | Blog
       keyName: property
     - name: 'og:description'
       value: The preview of the Exto theme
