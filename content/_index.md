@@ -49,7 +49,9 @@ seo:
       value: BTHS Solar | Blog
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: >-
+        The Brooklyn Technical High School Solar Car Team Blog. Team updates,
+        highlights, and more.
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
