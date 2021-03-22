@@ -41,7 +41,6 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: BTHS Solar | Blog
-  description: The preview of the Exto theme
   extra:
     - name: 'og:type'
       value: website
