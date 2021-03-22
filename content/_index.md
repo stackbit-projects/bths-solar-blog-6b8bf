@@ -64,6 +64,8 @@ seo:
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
-  description: 'The Brooklyn Technical High School Solar Car Team Blog. '
+  description: >-
+    The Brooklyn Technical High School Solar Car Team Blog. Team updates,
+    highlights, 
 layout: advanced
 ---
